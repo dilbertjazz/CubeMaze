@@ -1,0 +1,9 @@
+﻿Effects of RPG 
+
+S affcts the force you hit opponet with.
+P determines who hits first
+E how long you survive
+C allows you to charm your oppenent
+I chose the tactic to use 
+A allows you to hit or miss
+L random good and bad
